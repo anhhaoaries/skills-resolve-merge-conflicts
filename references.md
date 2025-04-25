@@ -1,4 +1,4 @@
 
-hahaha    hoho
------    ------
-hihihi    kaka
+hahaha |   hoho
+-----   | ------
+hihihi  |  kaka
